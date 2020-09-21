@@ -1,0 +1,5 @@
+// Archivos ignorados
+*.o
+*.layout
+*.exe
+*.win
