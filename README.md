@@ -1,2 +1,2 @@
 # HolaMundoEnC
-Programa simple de prueba
+Programa simple de prueba, escrito en C para probar github
